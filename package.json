@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@element-plus/nuxt": "^1.0.9",
+    "@fontsource/inter": "^5.0.20",
     "element-plus": "^2.8.0",
     "nuxt": "^3.12.4",
     "vue": "^3.4.37"
