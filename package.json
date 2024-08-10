@@ -11,6 +11,8 @@
     "prepare": "husky"
   },
   "dependencies": {
+    "@element-plus/nuxt": "^1.0.9",
+    "element-plus": "^2.8.0",
     "nuxt": "^3.12.4",
     "vue": "^3.4.37"
   },
