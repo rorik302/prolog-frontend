@@ -8,4 +8,5 @@
 definePageMeta({
   layout: "auth"
 })
+useHead({ title: "Вход" })
 </script>
